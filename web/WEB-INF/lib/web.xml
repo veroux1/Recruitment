@@ -1,0 +1,54 @@
+<web-app>
+    <servlet>
+        <servlet-name>Uploader</servlet-name>
+        <servlet-class>Controller.FileUploader</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Uploader</servlet-name>
+        <url-pattern>/Uploader</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>ImageUploader</servlet-name>
+        <servlet-class>Controller.ImageUploader</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ImageUploader</servlet-name>
+        <url-pattern>/ImageUploader</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>Downloader</servlet-name>
+        <servlet-class>Controller.Downloader</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Downloader</servlet-name>
+        <url-pattern>/Downloader</url-pattern>
+    </servlet-mapping>
+     <servlet>
+        <servlet-name>UploaderHATS</servlet-name>
+        <servlet-class>Controller.FileUploaderHATS</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UploaderHATS</servlet-name>
+        <url-pattern>/UploaderHATS</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>UploaderOL</servlet-name>
+        <servlet-class>Controller.UploaderOL</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UploaderOL</servlet-name>
+        <url-pattern>/UploaderOL</url-pattern>
+    </servlet-mapping>
+     <servlet>
+        <servlet-name>UploaderRequest</servlet-name>
+        <servlet-class>Controller.UploaderRequest</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UploaderRequest</servlet-name>
+        <url-pattern>/UploaderRequest</url-pattern>
+    </servlet-mapping>
+     
+    
+      
+
+</web-app>

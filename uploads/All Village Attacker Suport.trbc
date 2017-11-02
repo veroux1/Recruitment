@@ -1,0 +1,776 @@
+{
+	"building_contract":	[],
+	"dorf1RefreshDate":	"2017-02-04 00:28:15",
+	"dorf2RefreshDate":	"2017-02-04 00:33:27",
+	"dorf1StartBuildDate":	"2017-02-04 02:34:47",
+	"dorf2StartBuildDate":	"2017-02-04 03:48:07",
+	"demolishStartDate":	"1970-01-01 07:00:00",
+	"building_demolish":	{
+		"stufe":	0,
+		"gid":	0,
+		"aid":	0,
+		"remain":	"2017-02-04 00:20:45"
+	},
+	"commands":	[{
+			"cmdType":	1,
+			"level":	3,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	15,
+			"bid":	26,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	4,
+			"level":	2,
+			"gid":	62,
+			"bid":	-1,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	4,
+			"level":	4,
+			"gid":	60,
+			"bid":	-1,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	3,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	15,
+			"bid":	26,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	9,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	8,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	4,
+			"level":	5,
+			"gid":	60,
+			"bid":	-1,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	17,
+			"bid":	32,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	17,
+			"bid":	32,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	2,
+			"gid":	16,
+			"bid":	39,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	13,
+			"gid":	15,
+			"bid":	26,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	12,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	11,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	8,
+			"bid":	36,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	2,
+			"gid":	8,
+			"bid":	36,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	19,
+			"bid":	35,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	19,
+			"bid":	35,
+			"canMoveUp":	false,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	22,
+			"bid":	37,
+			"canMoveUp":	false,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	22,
+			"bid":	37,
+			"canMoveUp":	false,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	24,
+			"bid":	38,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	4,
+			"level":	7,
+			"gid":	60,
+			"bid":	-1,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	13,
+			"bid":	34,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	13,
+			"bid":	34,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	15,
+			"gid":	15,
+			"bid":	26,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	13,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	12,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	25,
+			"bid":	31,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	25,
+			"bid":	31,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	14,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	13,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	1,
+			"bid":	14,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	2,
+			"bid":	6,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	3,
+			"bid":	10,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	5,
+			"bid":	23,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	5,
+			"bid":	23,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	6,
+			"bid":	25,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	6,
+			"bid":	25,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	7,
+			"bid":	29,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	7,
+			"bid":	29,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	20,
+			"bid":	27,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	20,
+			"bid":	27,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	11,
+			"gid":	17,
+			"bid":	32,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	20,
+			"gid":	15,
+			"bid":	26,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	18,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	17,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	20,
+			"gid":	10,
+			"bid":	19,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	20,
+			"gid":	11,
+			"bid":	20,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	37,
+			"bid":	22,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	37,
+			"bid":	22,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	10,
+			"bid":	24,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	12,
+			"gid":	10,
+			"bid":	24,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	11,
+			"bid":	21,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	11,
+			"bid":	21,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	20,
+			"gid":	17,
+			"bid":	32,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	28,
+			"bid":	30,
+			"canMoveUp":	false,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	28,
+			"bid":	30,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	8,
+			"bid":	36,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	4,
+			"bid":	2,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	3,
+			"level":	1,
+			"gid":	9,
+			"bid":	33,
+			"canMoveUp":	false,
+			"canMoveDown":	false,
+			"canDelete":	false,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	5,
+			"gid":	9,
+			"bid":	33,
+			"canMoveUp":	false,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	4,
+			"level":	10,
+			"gid":	61,
+			"bid":	-1,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	4,
+			"level":	10,
+			"gid":	62,
+			"bid":	-1,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	31,
+			"bid":	40,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	24,
+			"bid":	38,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	10,
+			"gid":	16,
+			"bid":	39,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	20,
+			"gid":	11,
+			"bid":	21,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	20,
+			"gid":	10,
+			"bid":	24,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	12,
+			"gid":	13,
+			"bid":	34,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	15,
+			"gid":	19,
+			"bid":	35,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	15,
+			"gid":	20,
+			"bid":	27,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	15,
+			"gid":	13,
+			"bid":	34,
+			"canMoveUp":	true,
+			"canMoveDown":	true,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}, {
+			"cmdType":	1,
+			"level":	15,
+			"gid":	22,
+			"bid":	37,
+			"canMoveUp":	true,
+			"canMoveDown":	false,
+			"canDelete":	true,
+			"bReward":	false,
+			"mustBuildTime":	"1970-01-01 07:00:00"
+		}],
+	"resBonusBuilding":	[false, false, false, false, false]
+}
